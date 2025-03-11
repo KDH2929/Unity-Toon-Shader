@@ -61,10 +61,6 @@ public class SDFGenerator : MonoBehaviour
                 if (hasBlack && hasWhite)
                 {
                     isBoundary = true;
-                }
-
-                if (isBoundary)
-                {
                     boundaryPixels.Add(new Vector2(x, y));     // 경계 픽셀을 리스트에 추가
                 }
             }
