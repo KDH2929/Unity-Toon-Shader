@@ -1,4 +1,4 @@
-# Unity_Shader
+# Unity-Shader
 
 쉐이더 프로그래밍 수업의 기말 과제로 제출한 C# 스크립트와 Unity Shader 코드입니다.
 
