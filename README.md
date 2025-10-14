@@ -1,4 +1,4 @@
-# Unity-Toon-Shader
+# Unity-Shader
 
 디자인 테크놀로지학과에서 개설된 쉐이더 프로그래밍 수업 기말과제입니다.
 
